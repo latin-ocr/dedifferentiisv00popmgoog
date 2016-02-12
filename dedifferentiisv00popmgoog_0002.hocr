@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedifferentiisv00popmgoog_0002.png"; bbox 0 0 2341 3975; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 707 3229 1901 3247">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 707 3229 1901 3247">
+     <span class='ocr_line' id='line_1_1' title="bbox 707 3229 1901 3247; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 707 3232 718 3247; x_wconf 85' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 737 3232 840 3247; x_wconf 55' lang='grc' dir='ltr'><strong>ΙἈΙΙΙ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 855 3229 1359 3247; x_wconf 59' lang='grc' dir='ltr'><strong>ΙΙ-ΗΑΙῬΡΙῬΠΙῚΙΙῚΙ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1386 3229 1516 3247; x_wconf 49' lang='lat' dir='ltr'><strong>flav!</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1534 3229 1688 3247; x_wconf 72' lang='lat' dir='ltr'>n-n-nl</span> <span class='ocrx_word' id='word_1_6' title='bbox 1710 3229 1901 3247; x_wconf 59' lang='grc' dir='ltr'><strong>ΛΡᾸΙῬ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
